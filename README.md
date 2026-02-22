@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building scalable web applications using CodeIgniter 4 (PHP 8.2+), custom admin panels, LMS platforms, and e-commerce systems.<br><br>👯 I’m looking to collaborate on<br>Modern web apps, SaaS platforms, LMS systems, automation tools, and performance-focused backend projects.<br><br>🤝 I’m looking for help with<br><br>Advanced system architecture, scalable microservices patterns, and AI-powered integrations.<br>🌱 I’m currently learning<br>Advanced Laravel concepts, scalable backend architecture, DevOps practices, and AI integration in web applications.<br><br>💬 Ask me about<br><br>PHP, CodeIgniter 4, MySQL optimization, REST APIs, backend architecture, and real-world production deployment.<br>⚡ Fun fact<br>I enjoy turning complex business requirements into clean, maintainable, production-ready systems.
+# 💫 About Me
+
+🔭 Working on scalable web apps with CodeIgniter 4 (PHP 8.2+), custom admin panels, LMS platforms & e-commerce systems.
+
+👯 Open to collaborating on SaaS products, modern web apps, backend-heavy systems & automation tools.
+
+🤝 Exploring advanced architecture patterns, microservices & AI integrations.
+
+🌱 Currently learning Laravel internals, scalable backend design & DevOps workflows.
+
+💬 Ask me about PHP, CI4, MySQL optimization, REST APIs & production deployments.
+
+⚡ I enjoy turning complex business logic into clean, maintainable, production-ready systems.
 
 
 ## 🌐 Socials:
